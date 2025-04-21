@@ -62,5 +62,3 @@ cat flag.txt
 
 ![Meterpreter Session](https://github.com/user-attachments/assets/cf631450-aaf2-4935-a6dd-6234a7e3aaa2)
 
-And Voila! Flag found. 
----
