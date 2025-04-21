@@ -52,7 +52,7 @@ I went to the website and logged in with the leaked credentials and sent the mal
 
 ### 🕵️‍♂️ Exploitation
 
-Once they did, I hooked a meterpreter session and navigated to the desktop:
+Once they did, I hooked a meterpreter session and navigated to the desktop and found the flag:
 
 ```bash
 cd c:/users/Administrator/Desktop
