@@ -37,7 +37,7 @@ text_input=hello%0D%0A&recipient=NullPhantom
 
 ### Testing for Injection
 
-To test the waters, I injected a command using the ; delimiter to break the command chain and run my own.
+After playing around with BurpeSuite I was able to get a response with ```;ls -a``` just testing the waters, I injected another command to read any file called flag.txt
 
 ```bash
 text_input=hello; cat flag.txt;&recipient=NullPhantom
